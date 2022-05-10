@@ -239,11 +239,6 @@ body {
     border: solid 2px var(--clr-mod-violet);
 }
 
-.card__user-name {
-  font-size: 0.8125rem;
-  font-weight: var(--fw-500);
-}
-
 .card__user-status {
   opacity: 50%;
   font-size: 0.7125rem;
